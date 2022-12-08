@@ -1,3 +1,20 @@
+# Daily News App
+*Description*
+Pull news stories from NewsAPI.org.
+
+## Technology stack:
+- ReactJS
+- https://newsapi.org/
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+---
+
+*Original*
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
